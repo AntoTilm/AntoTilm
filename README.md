@@ -6,13 +6,13 @@ Je suis actuellement en formation et ce GitHub rassemble les projets réalisés 
 
 ## Mon parcours
 
-1. [Lloske](https://github.com/Lloske) 
+<h1>[Lloske](https://github.com/Lloske)</h1> 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 Lloske est mon projet de fin d'étude. C'est une application qui offre une interface intuitive pour visualiser les horaires, gérer les profils d'employés et assurer la communication des shifts de travail au personnel. 
 
-2. [WebApiExo1](https://github.com/AntoTilm/WebAPIExo1) - Date: ?/23 !!ADAPTER LIEN!!
+<h1>[WebApiExo1](https://github.com/AntoTilm/WebAPIExo1)</h1>  - Date: ?/23 !!ADAPTER LIEN!!
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -24,11 +24,11 @@ Premier exercice de mise en place d'une API. A terminer
 
   Nous avons appris a faire une systeme de login et a gérer une réponse d'une requette HTTP
 
-4. [IONIC_ToDoList](https://github.com/AntoTilm/IONIC) - Date: 08/23 !!ADAPTER LIEN!!
+4. [IONIC_ToDoList](https://github.com/AntoTilm/IONICdemo) - Date: 08/23
    
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-  Après avoir appris les bases d'angular courant aout tout en réalisant de petits exercices, nous avons effectué un travail de groupe. Ce dernier consistait a créer une ToDoList en utilisant IONIC.
+  Après avoir appris les bases d'angular courant aout tout en réalisant de petits exercices, nous avons effectué un travail de groupe. Ce dernier consistait à découvrir Ionic en autonomie puis à créer une ToDoList & un site pour consulter des description de film par apppel d'API. J'ai décider de m'occuper de la partie ToDoList avec un collègue de la formation. La       partie sur l'api à été crée par deux autres étudiants.
 
 5. [MemoryJs](https://github.com/AntoTilm/Memory) - Date: 07/23  
    
