@@ -2,6 +2,7 @@
 
 Je suis actuellement en formation et ce GitHub rassemble les projets réalisés au cours de celle-ci.
 
+!!! WORK IN PROGRESS !!
 
 ## Mon parcours
 
