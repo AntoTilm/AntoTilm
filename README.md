@@ -11,17 +11,23 @@ Je suis actuellement en formation et ce GitHub rassemble les projets réalisés 
 
 Lloske est mon projet de fin d'étude. C'est une application qui offre une interface intuitive pour visualiser les horaires, gérer les profils d'employés et assurer la communication des shifts de travail au personnel. 
 
-2. [WebApiExo1](https://github.com/AntoTilm/WebAPIExo1)
+2. [WebApiExo1](https://github.com/AntoTilm/WebAPIExo1) - Date: ?/23 !!ADAPTER LIEN!!
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 Premier exercice de mise en place d'une API. A terminer
 
-2. [Labo2](https://github.com/AntoTilm/WebAPIExo1)
+2. [Labo2](https://github.com/AntoTilm/WebAPIExo1) - Date: 09/23 !!ADAPTER LIEN!!
    
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  Date: 08/23 
-  LAbo2
+
+  Nous avons appris a faire une systeme de login et a gérer une réponse d'une requette HTTP
+
+2. [IONIC_ToDoList](https://github.com/AntoTilm/IONIC) - Date: 08/23 !!ADAPTER LIEN!!
+   
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+  Après avoir appris les bases d'angular courant aout tout en réalisant de petits exercices, nous avons effectué un travail de groupe. Ce dernier consistait a créer une ToDoList en utilisant IONIC.
 
 3. [MemoryJs](https://github.com/AntoTilm/Memory) - Date: 07/23  
    
