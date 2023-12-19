@@ -19,15 +19,15 @@ Je suis actuellement en formation et ce GitHub rassemble les projets réalisés 
 
 Premier exercice de mise en place d'une API. A terminer
 
-3. [Labo2](https://github.com/AntoTilm/WebAPIExo1) - Date: 09/23 !!ADAPTER LIEN!!
+3. [Labo2](https://github.com/AntoTilm/) - Date: 09/23 !!ADAPTER LIEN!!
    
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-  Nous avons appris a faire une systeme de login et a gérer une réponse d'une requette HTTP
+  Nous avons appris a faire une systeme de login et a gérer une réponse d'une requette HTTP. On nous a fourni un backend avec un swagger et nous avons communiquer avec pour obtenir un token d'identification. Ce dernier à été stocké dans le localStorage
 
 4. [IONIC_ToDoList](https://github.com/AntoTilm/IONICdemo) - Date: 08/23
    
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
   Après avoir appris les bases d'angular courant aout tout en réalisant de petits exercices, nous avons effectué un travail de groupe. Ce dernier consistait à découvrir Ionic en autonomie puis à créer une ToDoList & un site pour consulter des description de film par apppel d'API. J'ai décider de m'occuper de la partie ToDoList avec un collègue de la formation. La       partie sur l'api à été crée par deux autres étudiants.
 
