@@ -61,10 +61,22 @@ Premier exercice de mise en place d'une API. A terminer
   Ma toute première approche de la programmation. J'ai réalisé ce site suite au cours HTML/CSS sur OpenClassrooms afin de me préparer à ma future formation.
 
 
+<h3>Projets perso à rajouter</h3>
+<p>Heroes vs monster website</p>
+<p>Pokedex!!</p>
+<p>Parcelle</p>
 
-<h3>Projet vu en formation</h3>
-AngualrDemo
-Signal R
+<h3>Projet vu en formation à rajouter</h3>
+   <h4>Aude : https://gitlab.com/tb_net_2023</h4>
+      <p>Angular Demo</p>
+      <p>Web_API_Demo_1</p>
+      <p>Web_API_Demo_2</p>
+      <p>Web_API_Exo_track</p>
+   <h4>Khun : https://github.com/khunly82/DemoSignalRAngualr</h4>
+      <p>DemoSignalR</p>
+   <h4>Gavin : https://github.com/BS-GavinC</h4>
+      
+
 
 ## Ressources / Resources
 [List of shield / liste de badge](https://github.com/Ileriayo/markdown-badges)
