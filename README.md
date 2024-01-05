@@ -63,7 +63,7 @@ Premier exercice de mise en place d'une API. A terminer
 
 <h3>Projets perso à rajouter</h3>
 <p>Heroes vs monster website</p>
-<p>Pokedex!!</p>
+<p>Pokedex!!(se trouve dans angularDemo - Exo 6 :))</p> 
 <p>Parcelle</p>
 
 <h3>Projet vu en formation à rajouter</h3>
