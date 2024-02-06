@@ -30,30 +30,25 @@ Premier exercice de mise en place d'une API. A terminer
 
   Après avoir appris les bases d'angular courant aout tout en réalisant de petits exercices, j'ai effectué un travail de groupe. Ce dernier consistait à découvrir Ionic en autonomie puis à créer une ToDoList & un site pour consulter des description de films par apppel d'API. J'ai décider de m'occuper de la partie ToDoList avec un collègue de la formation. La       partie sur l'api à été crée par deux autres étudiants. 
 
-5. [MemoryJs](https://github.com/AntoTilm/Memory) - Date: 07/23  
+<h3><a href="https://github.com/AntoTilm/Memory">MemoryJs - Date: 07/23</a></h3> 
    
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
     
   Ce projet est un exercice récapitulatif sur HMTL/CSS/JS. Il a été réalisé en une semaine et présenté devant la classe. C'est une implémentation du célèbre jeu de Memory.  
 
-
-
-6. [Casse-brique](https://github.com/AntoTilm/breakout-game) - Date: 06/23  
+<h3><a href="https://github.com/AntoTilm/breakout-game">Casse-brique - Date: 06/23</a></h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
    Après avoir vu C# et l'orienté objet, j'ai appris les bases de HTML et CSS et eu une introduction au JavaScript. J'ai réalisé un jeu de casse-brique sur mon temps libre afin de m'exercer (en suivant ce tutoriel : https://developer.mozilla.org/fr/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript).
 
-
-
-7. [HeroesVsMonster](https://github.com/AntoTilm/HeroesVsMonsters) - Date: 05/23
+<h3><a href="https://github.com/AntoTilm/HeroesVsMonsters">HeroesVsMonster - Date: 05/23</a></h3>
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
   Après un mois de formation, j'ai réalisé un exercice reprennant les concepts de l'orienté objet en C#.
 
-
-8. [RobbieLens](https://github.com/AntoTilm/RobbieLens) - Date: 01/23
+<h3><a href="https://github.com/AntoTilm/RobbieLens">RobbieLens - Date: 01/23</a></h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
