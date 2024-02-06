@@ -25,8 +25,7 @@ Premier exercice de mise en place d'une API. A terminer
 
   J'ai appris a faire une systeme de login et a gérer une réponse d'une requette HTTP. Ce projet comprend une page d'acceuil, une page register, une login et une page de profil. L'utilisateur peut donc créer un compte puis s'identifier. La partie backend du projet ainsi qu'un swagger m'a été fournie par notre professeur. J'ai donc du communiquer avec le backend pour obtenir un token d'identification et stocker celui-ci dans le localStorage
 
-
-4. [IONIC_ToDoList](https://github.com/AntoTilm/IONICdemo) - Date: 08/23
+<h3><a href="https://github.com/AntoTilm/IONICdemo">IONIC ToDoList - Date: 08/23</a></h3> 
    
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
