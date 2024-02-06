@@ -12,8 +12,7 @@ Je suis actuellement en formation et ce GitHub rassemble les projets réalisés 
 
 <p>Lloske est mon projet de fin d'étude. C'est une application qui offre une interface intuitive pour visualiser les horaires, gérer les profils d'employés et assurer la communication des shifts de travail au personnel. </p>
 
-
-<h3>[WebApiExo1](https://github.com/AntoTilm/WebAPIExo1)</h3>  - Date: ?/23 !!ADAPTER LIEN!!
+<h3><a href="https://github.com/AntoTilm/WebAPIExo1">WebApiExo1</a></h3> 
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
