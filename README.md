@@ -12,11 +12,17 @@ Je suis actuellement en formation et ce GitHub rassemble les projets réalisés 
 
 <p>Lloske est mon projet de fin d'étude. C'est une application qui offre une interface intuitive pour visualiser les horaires, gérer les profils d'employés et assurer la communication des shifts de travail au personnel. </p>
 
+<h3><a href="https://github.com/AntoTilm/Parcelles-frontend">Parcelles - Date: 11/23</a></h3> 
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+<p>Le projet Parcelles est un projet de groupe interdisciplinaire réalisé lors de ma formation. Celle-ci constistait à réaliser une platforme pour la Fillière Wallonie Bois afin de remplacer leurs applications existantes. Nous avons donc été amené a prendre contact avec le  </p>
+
 <h3><a href="https://github.com/AntoTilm/WebAPI_Exo_01">WebApiExo1 - Date: 10/23</a></h3> 
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-  Il s'agit du premier exercice que j'ai fais lorsque la partie du cours sur les WebAPI a été introduite. Cet exercice nous demandais simlplement de créer une base de donnée sql dans un projet c#. 
+<p>Il s'agit du premier exercice que j'ai fais lorsque la partie du cours sur les WebAPI a été introduite. Cet exercice nous demandais simlplement de créer une base de donnée sql dans un projet c#.</p>
 
 <h3><a href="https://github.com/DEvEntAuth">DevEnt - Date: 09/23</a></h3> 
    
