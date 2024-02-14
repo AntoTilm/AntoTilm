@@ -30,6 +30,11 @@ Je suis actuellement en formation et ce GitHub rassemble les projets réalisés 
 
   Après avoir appris les bases d'angular courant aout tout en réalisant de petits exercices, j'ai effectué un travail de groupe. Ce dernier consistait à découvrir Ionic en autonomie puis à créer une ToDoList & un site pour consulter des description de films par apppel d'API. J'ai décider de m'occuper de la partie ToDoList avec un collègue de la formation. La       partie sur l'api à été crée par deux autres étudiants. 
 
+<h3><a href="https://github.com/AntoTilm/AngularDemo">AngularDemo - Date: 08/23</a></h3> 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+
+  Ce projet regroupe la matière que nous avons abordée au cours concernant Angular. Il se divise en deux parties. La première reprend les démos, qui sont des démonstrations produites par notre professeur pour expliquer la matière. La seconde se nomme les exos et reprend les exercices que j'ai pu coder afin d'assimiler la matière.
+
 <h3><a href="https://github.com/AntoTilm/Memory">MemoryJs - Date: 07/23</a></h3> 
    
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
