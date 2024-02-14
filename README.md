@@ -1,8 +1,6 @@
 # Antoine Tilman
 
-Je suis actuellement en formation et ce GitHub rassemble les projets réalisés au cours de celle-ci.
-
-!!! WORK IN PROGRESS !!
+<p>Actuellement à la recherche d'un emploi, ce GitHub rassemble les projets que j'ai réalisés au cours de ma formation Angular / Dotnet au centre Technobel de Ciney.</p>
 
 ## Mon parcours
 
