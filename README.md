@@ -16,7 +16,7 @@ Je suis actuellement en formation et ce GitHub rassemble les projets réalisés 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<p>Le projet Parcelles est un projet de groupe interdisciplinaire réalisé lors de ma formation. Celle-ci constistait à réaliser une platforme pour la Fillière Wallonie Bois afin de remplacer leurs applications existantes. Nous avons donc été amené a prendre contact avec le  </p>
+<p>Le projet Parcelles est un projet de groupe interdisciplinaire réalisé lors de ma formation. Celle-ci constistait à réaliser une platforme pour la Fillière Wallonie Bois afin de remplacer leurs applications existantes. Nous avons donc été amené a prendre contact avec le client, comprendre sa demande et ensuite réalisé le projet. Nous avons travaillé selon la méthodologie Scrum en utilisant Jira. Notre équipe était en charge de la partie front-end du projet et j'ai personnelement pu travailler sur la branche 'rendez-vous' du projet</p>
 
 <h3><a href="https://github.com/AntoTilm/WebAPI_Exo_01">WebApiExo1 - Date: 10/23</a></h3> 
 
