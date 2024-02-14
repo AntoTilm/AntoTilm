@@ -67,10 +67,6 @@
 
 <h3>Projets perso à rajouter</h3>
 <p>Heroes vs monster website</p>
-<p>Pokedex!!(se trouve dans angularDemo - Exo 6 :))</p> 
-<p>Rajouter tous les exo de angularDemo!!</p>
-<p>Parcelle</p>
-
 
 <h3>Projet vu en formation à rajouter</h3>
    <h4>Aude : https://gitlab.com/tb_net_2023</h4>
