@@ -6,7 +6,7 @@ Je suis actuellement en formation et ce GitHub rassemble les projets réalisés 
 
 ## Mon parcours
 
-<h3><a href="https://github.com/Lloske">Lloske</a></h3> 
+<h3><a href="https://github.com/Lloske">Lloske - Date: 01/24</a></h3> 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
