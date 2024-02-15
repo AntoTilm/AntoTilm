@@ -71,13 +71,19 @@
 <p>Heroes vs monster website</p>
 
 <h3>Projet vu en formation à rajouter</h3>
+   </br>
    <h4>Aude : https://gitlab.com/tb_net_2023</h4>
-      <p>Angular Demo</p>
-      <p>Web_API_Demo_1</p>
-      <p>Web_API_Demo_2</p>
-      <p>Web_API_Exo_track</p>
+      <h5>Angular Demo : https://github.com/AntoTilm/Aude_DemoAngular</h5>
+      <h5>Web_API_Demo_1 : https://github.com/AntoTilm/Aude_WebAPI_Demo_01</h5>
+      <h5>Web_API_Demo_2 : https://github.com/AntoTilm/Aude_WebAPI_Demo_02</h5>
+      <h5>Web_API_Exo_track : https://github.com/AntoTilm/Aude_WebAPI_Exo_Track</h5>
+      <h5>LinQ : https://github.com/AntoTilm/Aude_LinQ</h5>
+      <h5>EventManagerBack : https://github.com/AntoTilm/Aude_EventManagerBack</h5>
+      
+   </br>
    <h4>Khun : https://github.com/khunly82/DemoSignalRAngualr</h4>
-      <p>DemoSignalR</p>
+      <h5>DemoSignalR : https://github.com/demoSignalR</h5>
+   </br>
    <h4>Gavin : https://github.com/BS-GavinC</h4>
       
 
