@@ -2,6 +2,8 @@
 
 <p>Actuellement à la recherche d'un emploi, ce GitHub rassemble les projets que j'ai réalisés au cours de ma formation Angular / Dotnet au centre Technobel de Ciney.</p>
 
+<p>Afin de consulter facilement les projets, n'hésitez pas à rajouter 'https://vscode.dev' devant l'adresse du dépôt. Par exemple : 'https://vscode.dev/github.com/Lloske/frontend'. Cela ouvrira une version de VS Code dans votre navigateur. Plus d'information ici: https://code.visualstudio.com/blogs/2021/10/20/vscode-dev</p>
+
 ## Mon parcours
 
 <h3><a href="https://github.com/Lloske">Lloske - Date: 01/24</a></h3> 
