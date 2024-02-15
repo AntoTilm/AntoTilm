@@ -52,7 +52,13 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
-<p>Après avoir vu C# et l'orienté objet, j'ai appris les bases de HTML et CSS et eu une introduction au JavaScript. J'ai réalisé un jeu de casse-briques sur mon temps libre afin de m'exercer (en suivant ce tutoriel : https://developer.mozilla.org/fr/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript).</p>
+<p>Afin de travailler mon Javascript, j'ai réalisé un jeu de casse-briques sur mon temps libre (en suivant ce tutoriel : https://developer.mozilla.org/fr/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript).</p>
+
+<h3><a href="https://github.com/AntoTilm/HeroesVsMonster_Website">HeroesVsMonster Website - Date: 06/23</a></h3>
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+
+<p>Après avoir vu C# et l'orienté objet, j'ai appris les bases de HTML, CSS et JS. J'ai réaliser un site internet en rapport avec le jeu développé précédemment: Heroes Vs Monster </p>
 
 <h3><a href="https://github.com/AntoTilm/HeroesVsMonsters">HeroesVsMonster - Date: 05/23</a></h3>
 
@@ -69,6 +75,7 @@
 
 <h3>Projets perso à rajouter</h3>
 <p>Heroes vs monster website</p>
+
 
 <h3>Projet vu en formation à rajouter</h3>
    </br>
